@@ -1,0 +1,24 @@
+* 79c2636 Agreado nueva delimitacion
+* 2b7db79 Agregando Parrafos
+*   2c97fd5 Resolviendo conflicto en Agregando edades de los usuario
+|\  
+| * 60728b5 nombre de usuarios iniciales
+* | 7113968 Agregando edades de los usuarios
+|/  
+*   4acac53 RESOLVIENDO CONFLICTO MERGE MAIN/HTML EN EL DOCUMENTO INDEX.HTML
+|\  
+| * de73f82 Agg index.js al index.html
+* | 56f00c7 Agregando ul
+* |   1690e7d Merge branch 'js'
+|\ \  
+| * | 4153cad archivo index.js
+* | | 5487508 creando style.css
+| |/  
+|/|   
+* | 0b7b47d creacrion archivo html
+|/  
+* c56d2eb ignorando archivos exe
+* 7bf0fc7 Create LICENSE
+* 77b6adc tercer cambio
+* 906ae60 segundo cambio
+* fdfcbf1 primer commit
